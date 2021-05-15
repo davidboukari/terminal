@@ -1,6 +1,6 @@
 # terminal
 
-screen
-tmux
-terminator
-iterm2 (macosx)
+* screen
+* tmux
+* terminator
+* iterm2 (macosx)
