@@ -1,10 +1,10 @@
 # terminal
 
 * screen
-- https://github.com/davidboukari/screen_tmux
+** https://github.com/davidboukari/screen_tmux
 
 * tmux
-- https://github.com/davidboukari/screen_tmux
+** https://github.com/davidboukari/screen_tmux
 
 * terminator
 ```
