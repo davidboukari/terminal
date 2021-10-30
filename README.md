@@ -1,5 +1,6 @@
 # terminal
 
+
 * screen
 https://github.com/davidboukari/screen_tmux
 
@@ -7,7 +8,10 @@ https://github.com/davidboukari/screen_tmux
 https://github.com/davidboukari/screen_tmux
 
 * terminator
+https://defkey.com/fr/terminator-terminal-emulator-raccourcis-clavier
+
 ```
+
 Shift + CTRL + x : Full screen
 Shift + CTRL + e : Vertical Split
 
